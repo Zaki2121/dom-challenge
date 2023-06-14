@@ -2,7 +2,7 @@
  labo loo qaybiyaaa 
 
      1.   function  wax aanan soo celin  waxaana la dhahaa (void function)
-     2    function  wax soo celiya oo execution kiisa dhamaadoo(shaqadaiisa dhamaato)
+     2    function  wax soo celiya  markii uu dhamaado execution kiisa (shaqadaiisa dhamaato)
 
 
  */
@@ -73,3 +73,11 @@ function sayHelo() {
    lama ogola inaad shaqo kale sii qabtid ama so dabacddid
 
 */
+
+
+function add() {
+    const num = 10;
+}
+
+
+console.log(num)
